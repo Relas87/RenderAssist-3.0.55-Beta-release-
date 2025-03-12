@@ -10,3 +10,14 @@ WORKING VERSIONS:
 
 SETUP (DATAPACK DOESN'T WORK IF THIS ISN'T ENABLED):
 - You must set the function-permission-level to 4 or higher. You can do that by going in the server.properties file > function-permission-level.
+
+Usually the option looks something like this:
+
+![image](https://github.com/user-attachments/assets/f8025686-2a2b-4e5f-9efa-2a46add78106)
+
+TESTED ON:
+- Aternos
+- Pebblehost
+- BisectHosting
+- ScalaCube
+- Shockbyte
